@@ -18,6 +18,9 @@
     "url": "github.com/dustinspecker"
   },
   "license": "MIT",
+  "files": [
+    "lib"
+  ],
   "dependencies": {
     "find-up": "^1.0.0"
   },
