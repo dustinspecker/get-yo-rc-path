@@ -8,7 +8,10 @@
     "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "repository": "dustinspecker/get-yo-rc-path",
-  "keywords": [],
+  "keywords": [
+    "yo-rc",
+    "yeoman"
+  ],
   "author": {
     "name": "Dustin Specker",
     "email": "DustinSpecker@DustinSpecker.com",
