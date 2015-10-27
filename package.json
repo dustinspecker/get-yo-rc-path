@@ -1,6 +1,6 @@
 {
   "name": "get-yo-rc-path",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the path of the nearest .yo-rc.json file",
   "main": "lib/index.js",
   "scripts": {
